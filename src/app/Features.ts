@@ -24,5 +24,5 @@ export interface Features {
       name: 'Dependency Injection',
       link: '',
       description: 'Dependency Injection to create reusable components'
-    },
+    }
   ];

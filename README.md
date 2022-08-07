@@ -1,7 +1,8 @@
 # CvApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
-It's a functional proof of the authors understanding of various Angular concepts.
+It's a functional proof of the author's understanding of various Angular concepts.
+The main page shows an overview of all the used concepts.
 
 ## Development server
 
